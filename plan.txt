@@ -1,0 +1,1 @@
+I have decided to implement the microphone listener in java instead.  I'm not sure how to solve the segfault issue, so i'll temporarily interface it with java until i find a solution
